@@ -1,0 +1,6 @@
+Name : 0
+Username : 0
+Age : 0
+Nationality : 0
+Mobile no : 0
+Password : 0
